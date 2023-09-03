@@ -19,7 +19,7 @@ function preload(){
   //level1
   ocean=loadImage("Images/Ocean.jpeg");
   trashIMG=loadImage("Images/Water bottle.png");
-  SalmonIMG=loadImage("Images/fish.png");
+  SalmonIMG=loadImage("Images/Fish.png");
   ClownfishIMG=loadImage("Images/Clownfish.png");
  splash=loadSound("Sound/splash.wav");
 
